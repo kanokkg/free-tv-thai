@@ -43,7 +43,7 @@ https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",Nation TV
 https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/drama/images/6/67/Workpoint.png",Workpoint TV
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://thaidatacloud-www.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2023/04/07123037/Workpoint.png",Workpoint TV
 https://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/True4U_Logo.svg",True 4U
 https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
