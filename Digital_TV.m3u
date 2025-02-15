@@ -3,7 +3,7 @@
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",NBT HD
 https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",THAI PBS HD
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://publicinfo.thaipbs.or.th/wp-content/themes/tpbs-publicinfo/img/tpbs-full-logo.png",THAI PBS HD
 https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/ALTV_Logo.png",ALTV
 https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
