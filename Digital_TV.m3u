@@ -13,7 +13,7 @@ https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png",T Sports 7
 https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBThai.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_y_KDQGSdgJs2IA7v5Xo6tVk4ZyjcF9nCf1.png" group-title="Undefined",TVB Thai
+#EXTINF:-1 tvg-id="TVBThai.th" tvg-logo="https://media-mvtv.imgix.net/channel/89_x_ziJjAkuXfvKt1DFTGQpe4dL382n06arh.jpg" group-title="Undefined",TVB Thai
 https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MVMall Plus.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_y_KDQGSdgJs2IA7v5Xo6tVk4ZyjcF9nCf1.png" group-title="Shop",MVMall Plus
 https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
