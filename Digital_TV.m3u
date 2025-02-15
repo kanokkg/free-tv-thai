@@ -39,7 +39,7 @@ https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
 #EXTINF:-1 tvg-id="MVMall Healthy.th" tvg-name="MVMall Healthy" group-title="Shop" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_y_dXKD7lFMvczOB32q4wJ1GjHbLtySYk9R.png",MVMall Healthy
 https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel8.th" group-title="Movies" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
+#EXTINF:-1 tvg-id="Channel8.th" group-title="Movies" tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",Nation TV
 https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
