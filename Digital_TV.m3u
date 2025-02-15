@@ -27,7 +27,7 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunk
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
 #EXTINF:-1 tvg-id="NBT11South.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/NBT_South_2025.svg/revision/latest?cb=20250212075844" group-title="Digital TV",NBT 11 South
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-#EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" group-title="Movies" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx",Mangorn
+#EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" group-title="Movies" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_60.png",Mangorn
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg",TNN 16
 https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
