@@ -19,13 +19,13 @@ https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png",TPTV
 https://edge2a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NBT_Thailand.svg/425px-NBT_Thailand.svg.png" group-title="Digital TV",NBT 11 Central
+#EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/NBT_Central_2025.svg/revision/latest?cb=20250212075837" group-title="Digital TV",NBT 11 Central
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="NBT11North.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NBT_Thailand.svg/425px-NBT_Thailand.svg.png" group-title="Digital TV",NBT 11 North
+#EXTINF:-1 tvg-id="NBT11North.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/NBT_North_2025.svg/revision/latest?cb=20250212075824" group-title="Digital TV",NBT 11 North
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 tvg-id="NBT11NorthEast.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NBT_Thailand.svg/425px-NBT_Thailand.svg.png" group-title="Digital TV",NBT 11 Northeast
+#EXTINF:-1 tvg-id="NBT11NorthEast.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/NBT_Northeast_2025.svg/revision/latest?cb=20250212075830" group-title="Digital TV",NBT 11 Northeast
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-#EXTINF:-1 tvg-id="NBT11South.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NBT_Thailand.svg/425px-NBT_Thailand.svg.png" group-title="Digital TV",NBT 11 South
+#EXTINF:-1 tvg-id="NBT11South.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/NBT_South_2025.svg/revision/latest?cb=20250212075844" group-title="Digital TV",NBT 11 South
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
 #EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" group-title="Movies" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx",Mangorn
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
