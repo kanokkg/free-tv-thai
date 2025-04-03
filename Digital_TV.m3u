@@ -2,23 +2,23 @@
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="General",CH7 HD (1080p)
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",NBT HD
-https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://publicinfo.thaipbs.or.th/wp-content/themes/tpbs-publicinfo/img/tpbs-full-logo.png",THAI PBS HD
-https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/ALTV_Logo.png",ALTV
 https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_tv5.png",TV5 HD
-https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 #EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",Boomerang Thai
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png",T Sports 7
-https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 tvg-id="TVBThai.th" tvg-logo="https://media-mvtv.imgix.net/channel/89_x_ziJjAkuXfvKt1DFTGQpe4dL382n06arh.jpg" group-title="Undefined",TVB Thai
 https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MVMall Plus.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_y_KDQGSdgJs2IA7v5Xo6tVk4ZyjcF9nCf1.png" group-title="Shop",MVMall Plus
 https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png",TPTV
-https://edge2a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 #EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/NBT_Central_2025.svg/revision/latest?cb=20250212075837" group-title="Digital TV",NBT 11 Central
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="NBT11North.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/NBT_North_2025.svg/revision/latest?cb=20250212075824" group-title="Digital TV",NBT 11 North
