@@ -43,9 +43,9 @@ https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",Nation TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Workpoint_Ch23.svg",Workpoint TV
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png",Workpoint TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
-#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/True4U_Logo.svg",True 4U
+#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png",True 4U
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png",GMM 25
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
