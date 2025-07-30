@@ -13,10 +13,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png",T Sports 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-#EXTINF:-1 tvg-id="TVBThai.th" tvg-logo="https://media-mvtv.imgix.net/channel/89_x_ziJjAkuXfvKt1DFTGQpe4dL382n06arh.jpg" group-title="Undefined",TVB Thai
-https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBThai.th" tvg-logo="https://media-mvtv.imgix.net/channel/89_x_ziJjAkuXfvKt1DFTGQpe4dL382n06arh.jpg" group-title="Undefined",MVMall Trend
+https://lb1-live-mv.v2h-cdn.com/hls/ffee/mvmall_best/mvmall_best.m3u8
 #EXTINF:-1 tvg-id="MVMall Plus.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_y_KDQGSdgJs2IA7v5Xo6tVk4ZyjcF9nCf1.png" group-title="Shop",MVMall Plus
-https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png",TPTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 #EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Digital TV",NBT 11 Central
@@ -36,9 +36,9 @@ https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/JKN_Global_Group_logo_%282022%29.svg",JKN 18
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 tvg-id="MVMall Home.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/112_y_15JWUfg6Psv0yKEuY7a9DmMNHz23ZlrF.jpg" group-title="Shop",MVMall Home
-https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffdf/mvmallhome/mvmallhome.m3u8
 #EXTINF:-1 tvg-id="MVMall Healthy.th" tvg-name="MVMall Healthy" group-title="Shop" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_y_dXKD7lFMvczOB32q4wJ1GjHbLtySYk9R.png",MVMall Healthy
-https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" group-title="Movies" tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",Nation TV
@@ -50,7 +50,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png",GMM 25
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 #EXTINF:-1 tvg-id="MVMall Trend.th" tvg-name="MVMall Trend" group-title="Shop" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/42_y_MEQW4wbyedpLSGACI86uoJ7cDisaqYhK.jpg",MVMall Trend
-https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8
 #EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Ch_8_2016_flat.svg",CH 8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 #EXTINF:-1 tvg-id="Boomerang Cartoon" tvg-logo="https://media-mvtv.imgix.net/channel/188_y_SHbpOor8a2ClM0g3LFcsT5I4GkRmu6q9.jpg" group-title="Entertainment",Boomerang Cartoon
